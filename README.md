@@ -6,7 +6,7 @@
 
 The spread of misinformation on social media is a growing problem with significant consequences for public trust, safety, and decision-making. False or misleading information can quickly gain traction, influencing individuals' beliefs and behaviors on a wide scale. This phenomenon is particularly concerning during events like elections, public health crises, or social movements, where misinformation can mislead entire populations and distort public opinion. The nature of social media creates an environment where misinformation can spread rapidly and widely, often without sufficient fact-checking. Tackling this issue involves understanding how misinformation propagates, identifying its sources, and developing strategies to curb its spread, ensuring that users have access to accurate and reliable information.
 
-[For more for a deeper understanding](Background.md)
+<mark>[For more for a deeper understanding](Background.md)</mark>
 
 ## Key Performance Indicators
 
