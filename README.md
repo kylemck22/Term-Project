@@ -1,13 +1,19 @@
-Executive Summary
+# The Impact of Social Media on Misinformation
+
+*By: Kyle McKeough* 
+
+## Executive Summary
 
 The spread of misinformation on social media is a growing problem with significant consequences for public trust, safety, and decision-making. False or misleading information can quickly gain traction, influencing individuals' beliefs and behaviors on a wide scale. This phenomenon is particularly concerning during events like elections, public health crises, or social movements, where misinformation can mislead entire populations and distort public opinion. The nature of social media creates an environment where misinformation can spread rapidly and widely, often without sufficient fact-checking. Tackling this issue involves understanding how misinformation propagates, identifying its sources, and developing strategies to curb its spread, ensuring that users have access to accurate and reliable information.
 
+[For more for a deeper understanding](Background.md)
 
-Key Performance Indicators
+## Key Performance Indicators
 
 1. Misinformation Propagation Rate
 * Definition: The speed and extent to which misinformation spreads across social media platforms. This can be measured by the number of shares, retweets, or reposts of false information over a set period.
 * Target: Reduce the propagation rate of misinformation by 50% within six months through fact-checking and awareness campaigns.
+* <mark> Measurement frequency: Monthly?</mark>
 
 2. Engagement Metrics (Likes, Shares, Comments)
 * Definition: The level of interaction (likes, comments, shares, retweets) with posts containing misinformation. This shows how much engagement misinformation receives from the social media community.
