@@ -36,5 +36,16 @@ The spread of misinformation on social media is a growing problem with significa
 * Target: The more positive the sentiment toward the speakers, the more we should trust this person.
 
 
+DATA FOR TERM PROJECT MILESTONE 2:
+
+In Tableau, I created visualisations for my 5 Key Performace Indicators, and included a paragraph write up on each visualisation.
+
+KPI #1: Which Politician speak the most truthfully and untruthfully?
+<img width="1201" alt="Image" src="https://github.com/user-attachments/assets/abf7b9ed-33e7-4142-9a50-21b4056d61f6" />
+
+In this visualisation, it shows that George W. Bush had the most untruthful statements during his press conferences, with a total combined score of -1,409. The scores were based on point scale where points are added up based on their statements. The point scoring is -1 for a non-factual statement, 0 points for an unimportant factual statement and +1 point for a check-worthy factual statement. THe politician who was the most truthful was John Anderson, with a combined score of -22.
+
+
+
 
 
