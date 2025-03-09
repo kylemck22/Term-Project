@@ -37,6 +37,4 @@ The spread of misinformation on social media is a growing problem with significa
 
 
 
-<img width="1201" alt="Image" src="https://github.com/user-attachments/assets/abf7b9ed-33e7-4142-9a50-21b4056d61f6" />
-
 
