@@ -66,7 +66,12 @@ Ronald Reagan: Was Re-elected in 1984.
 
 
 KPI #4: Is there a correlation between Political Party and Untruthfulness
+<img width="1208" alt="Image" src="https://github.com/user-attachments/assets/e1f3ca6a-07a8-48c4-b0f4-a8ef10aa2915" />
 
+In this visualisation, I seeked to find if there was a correlation with the amount of untruthfulness, and the political party in which the speaker was a part of. I found that the Republican Party spoke the most amount of untruthfulness, at a total of -5,437, followed by thr Democratic party at -3,759, and finally the Independant Party, at -569. This could be skewed based on the data, considering there are 9 Republican Party Representatives, 9 Democrats and only 2 Independants, however, the republicans would sitll be the most untruthful based on the data we have and the trends. 
+
+
+KPI #5: Sentiment Analysis of Misinformation
 
 
 
