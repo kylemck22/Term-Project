@@ -33,5 +33,10 @@ The spread of misinformation on social media is a growing problem with significa
 5. Sentiment Analysis of Misinformation
 
 * Definition: To view what kind of Sentiment was felt pertaining to each politicians statements.
-* Target: The more positive the sentiment toward the speakers, the more we should trust this person. 
+* Target: The more positive the sentiment toward the speakers, the more we should trust this person.
+
+
+
+<img width="1201" alt="Image" src="https://github.com/user-attachments/assets/abf7b9ed-33e7-4142-9a50-21b4056d61f6" />
+
 
