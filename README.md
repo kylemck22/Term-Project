@@ -53,6 +53,20 @@ In this visualisation, I concluded that those in the governor position spread th
 
 
 KPI #3: Is there a correlation between truth and Presidential election tenure?
+<img width="1205" alt="Image" src="https://github.com/user-attachments/assets/c47620b6-8669-458a-9583-793472b391b1" />
+
+In this visualisation, I seeked to find if there was a correlation between the presidental election tenure and speaking/not speaking the truth. I filtered the speaking title to only include presidents. George W. Bush had the most cases of mistruth, while Ronald Reagan had the least amount of mistruth. After some research, I found the following statistics for each candidate.  
+Barack Obama: Cannot be re-elected for the third time, he is not qualified.
+Bill Clinton: Was Re-elected in 1996.
+George Bush: Lost the election to Bill Clinton in 1992 after speaking.
+George W. Bush: Was Re-elected in 2004.
+Gerald R. Ford: Replaced President Nixon after the Watergate scandal for the final 2 years, however, he lost the 1976 election to Jimmy Carter.
+Jimmy Carter: Lost the 1980 election to Ronald Reagan
+Ronald Reagan: Was Re-elected in 1984.
+
+
+KPI #4: Is there a correlation between Political Party and Untruthfulness
+
 
 
 
