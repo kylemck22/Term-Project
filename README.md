@@ -46,6 +46,16 @@ KPI #1: Which Politician speak the most truthfully and untruthfully?
 In this visualisation, it shows that George W. Bush had the most untruthful statements during his press conferences, with a total combined score of -1,409. The scores were based on point scale where points are added up based on their statements. The point scoring is -1 for a non-factual statement, 0 points for an unimportant factual statement and +1 point for a check-worthy factual statement. THe politician who was the most truthful was John Anderson, with a combined score of -22.
 
 
+KPI #2: Which Political Position is the most Truthful? Which is the most Untruthful?
+<img width="1201" alt="Image" src="https://github.com/user-attachments/assets/d78b6021-4b35-4d47-a3c3-e132547c17a1" />
+
+In this visualisation, I concluded that those in the governor position spread the most misleading statements, while the congressman position spreads the least mistruthful statements. The positions are colour-coded on the bar chart with the speaker title.
+
+
+KPI #3: Is there a correlation between truth and Presidential election tenure?
+
+
+
 
 
 
