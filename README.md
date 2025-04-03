@@ -72,7 +72,7 @@ In this visualisation, I seeked to find if there was a correlation with the amou
 
 
 KPI #5: Sentiment Analysis of Misinformation
-<img width="1203" alt="Image" src="https://github.com/user-attachments/assets/76bd6b12-2869-45db-be9f-684be7773694" />
+
 
 In this visualisation, we can see that the speaker/politician who had the most positive sentiment within the public was Hillary Clinton, with a score of 63.2 as a Secretary of State, and 19.3 as a Secretary. The lowest was Jimmy Carter, at a score of -146.0 as Governor, however he did have a positive score of 11.2 as President.
 
