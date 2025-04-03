@@ -5,16 +5,16 @@
 
 ## Table of Contents:
 
-1. Introduction
+1. Introduction:
    a) Problem Context
    b) Significance of the Study
    c) Executive Summary
 
-2. Explatory Data Findings
+2. Explatory Data Findings:
    a) Key Performance Indicators 1-5
    b) Visiual Representations of KPIs 1-5
 
-3. Statistical Analysis
+3. Statistical Analysis:
    a) Correlation Matrix Heatmap
    b) Causal Inference Model.
 
