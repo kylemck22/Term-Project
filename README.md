@@ -72,9 +72,9 @@ In this visualisation, I seeked to find if there was a correlation with the amou
 
 
 KPI #5: Sentiment Analysis of Misinformation
+<img width="1201" alt="Image" src="https://github.com/user-attachments/assets/a74499d1-5b9e-442f-bd3d-35a42865a065" />
 
-
-In this visualisation, we can see that the speaker/politician who had the most positive sentiment within the public was Hillary Clinton, with a score of 63.2 as a Secretary of State, and 19.3 as a Secretary. The lowest was Jimmy Carter, at a score of -146.0 as Governor, however he did have a positive score of 11.2 as President.
+In this visualisation, we are analyzing the sentiment behind each statement spoken by different political parties. I created numerical values for each political party to help with future models in the Project. 1 is a Democrat, 2 is Republican and 3 is Independant. As shown on the graph, the total verdicts were -435.4 for Democrats, -594.8 for Republicans and -94.5 for Independants.
 
 
 
