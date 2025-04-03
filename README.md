@@ -12,7 +12,7 @@
 
 ## Problem Context
 
-Social media has become a primary source of information for millions of people worldwide<mark>(cite)</mark>. While it has revolutionized communication and information sharing, it has also facilitated the rapid spread of misinformation and disinformation<mark>(cite)</mark>. Misinformation refers to false or misleading information shared without harmful intent, while disinformation is deliberately created to deceive audiences. The impact of misinformation on social media is profound, influencing public opinion, shaping political discourse, and even affecting public health outcomes<mark>(cite)</mark>.
+Social media has become a primary source of information for millions of people worldwide(Wike 2022). While it has revolutionized communication and information sharing, it has also facilitated the rapid spread of misinformation and disinformation(Michich, 2023). Misinformation refers to false or misleading information shared without harmful intent, while disinformation is deliberately created to deceive audiences. The impact of misinformation on social media is profound, influencing public opinion, shaping political discourse, and even affecting public health outcomes (Mackey, 2023).
 
  The speed and scale at which misinformation spreads on platforms such as Facebook, Twitter, and TikTok make it a significant societal challenge.
 
