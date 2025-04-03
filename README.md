@@ -6,6 +6,22 @@
 # Table of Contents:
 
 
+
+
+
+
+## Problem Context
+
+Social media has become a primary source of information for millions of people worldwide<mark>(cite)</mark>. While it has revolutionized communication and information sharing, it has also facilitated the rapid spread of misinformation and disinformation<mark>(cite)</mark>. Misinformation refers to false or misleading information shared without harmful intent, while disinformation is deliberately created to deceive audiences. The impact of misinformation on social media is profound, influencing public opinion, shaping political discourse, and even affecting public health outcomes<mark>(cite)</mark>.
+
+ The speed and scale at which misinformation spreads on platforms such as Facebook, Twitter, and TikTok make it a significant societal challenge.
+
+
+
+
+
+
+
 ## Executive Summary
 
 The spread of misinformation on social media is a growing problem with significant consequences for public trust, safety, and decision-making. False or misleading information can quickly gain traction, influencing individuals' beliefs and behaviors on a wide scale. This phenomenon is particularly concerning during events like elections, public health crises, or social movements, where misinformation can mislead entire populations and distort public opinion. The nature of social media creates an environment where misinformation can spread rapidly and widely, often without sufficient fact-checking. Tackling this issue involves understanding how misinformation propagates, identifying its sources, and developing strategies to curb its spread, ensuring that users have access to accurate and reliable information.
