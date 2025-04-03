@@ -2,6 +2,10 @@
 
 *By: Kyle McKeough* 
 
+
+# Table of Contents:
+
+
 ## Executive Summary
 
 The spread of misinformation on social media is a growing problem with significant consequences for public trust, safety, and decision-making. False or misleading information can quickly gain traction, influencing individuals' beliefs and behaviors on a wide scale. This phenomenon is particularly concerning during events like elections, public health crises, or social movements, where misinformation can mislead entire populations and distort public opinion. The nature of social media creates an environment where misinformation can spread rapidly and widely, often without sufficient fact-checking. Tackling this issue involves understanding how misinformation propagates, identifying its sources, and developing strategies to curb its spread, ensuring that users have access to accurate and reliable information.
@@ -75,6 +79,21 @@ KPI #5: Sentiment Analysis of Misinformation
 <img width="1201" alt="Image" src="https://github.com/user-attachments/assets/a74499d1-5b9e-442f-bd3d-35a42865a065" />
 
 In this visualisation, we are analyzing the sentiment behind each statement spoken by different political parties. I created numerical values for each political party to help with future models in the Project. 1 is a Democrat, 2 is Republican and 3 is Independant. As shown on the graph, the total verdicts were -435.4 for Democrats, -594.8 for Republicans and -94.5 for Independants.
+
+
+# Causal Inference & Correlation Analysis
+
+For my data, I opted for option 3, creating a correlation matrix heatmap to see the correlation of my KPIs. The KPI I chose was #5, the sentiment analysis. When it comes to an election, the feelings and opinions of the people are what is most important, so I gauged the sentiment that people felt toward messages from the three different political parties in the dataset, Democrats, Republicans and Independant. The result of the heatmap is the following:
+
+<img width="632" alt="Image" src="https://github.com/user-attachments/assets/6ba5a4d9-bef4-4c81-8114-46221f92729d" />
+
+Looking at the heatmap, we see that the correlation result between sentiment and Political party was -0.02.
+
+I then tried to create a casual inference model, but it did not turn out very well. I will attach it below. I worked at it for hours and could not get it to work.
+
+<img width="647" alt="Image" src="https://github.com/user-attachments/assets/acdd531e-2197-476e-b7a6-87c11d85597e" />
+
+
 
 
 
