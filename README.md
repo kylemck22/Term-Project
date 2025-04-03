@@ -3,22 +3,35 @@
 *By: Kyle McKeough* 
 
 
-# Table of Contents:
+## Table of Contents:
 
+1. Introduction
+   a) Problem Context
+   b) Significance of the Study
+   c) Executive Summary
 
+2. Explatory Data Findings
+   a) Key Performance Indicators 1-5
+   b) Visiual Representations of KPIs 1-5
 
+3. Statistical Analysis
+   a) Correlation Matrix Heatmap
+   b) Causal Inference Model.
 
+4. Discussion
+
+5. References
 
 
 ## Problem Context
 
-Social media has become a primary source of information for millions of people worldwide(Wike 2022). While it has revolutionized communication and information sharing, it has also facilitated the rapid spread of misinformation and disinformation(Michich, 2023). Misinformation refers to false or misleading information shared without harmful intent, while disinformation is deliberately created to deceive audiences. The impact of misinformation on social media is profound, influencing public opinion, shaping political discourse, and even affecting public health outcomes (Mackey, 2023).
+Social media has become a primary source of information for millions of people worldwide (Wike 2022). While it has revolutionized communication and information sharing, it has also facilitated the rapid spread of misinformation and disinformation (Michich, 2023). Misinformation refers to false or misleading information shared without harmful intent, while disinformation is deliberately created to deceive audiences. The impact of misinformation on social media is profound, influencing public opinion, shaping political discourse, and even affecting public health outcomes (Mackey, 2023).
 
  The speed and scale at which misinformation spreads on platforms such as Facebook, Twitter, and TikTok make it a significant societal challenge.
 
+## Significance of the Study
 
-
-
+The impact of social media on misinformation is a critical and growing issue that poses significant challenges to public trust, safety, and informed decision-making. As social media platforms become primary sources of information, they also serve as a platform for the rapid spread of false or misleading content (Michich, 2023). Misinformation, whether about health, politics, or social issues, can influence public behaviour, affect elections, and inflate public health crises (as seen with COVID-19 (Mackey, 2023). Understanding how misinformation spreads, its sources, and the mechanisms that amplify it is crucial to developing effective strategies to lessen its harmful effects and protect individuals from being misled.
 
 
 
@@ -111,7 +124,18 @@ I then tried to create a casual inference model, but it did not turn out very we
 
 
 
+## Discussion
 
+To summarize the project, I first started by finding a dataset on politicians messages at their press conferences or other documented mass discussions, which showed if each message/statement was factually correct or not. I then identified 5 Key Performance Indicators and graphed them through Tableau to get a visual understanding of each relationship. After that, I chose option #3 for the statistical analysis, being the Causal Inference and Correlation Analysis. I chose Key performance indicator #5, being the sentiment analysis and then created the correlation matrix heatmap. After that, I tried to create the causal inference model, but it did not turn out very well if I am being completely honest. 
+
+
+## References
+
+Wike, 2022  https://www.pewresearch.org/global/2022/12/06/views-of-social-media-and-its-impacts-on-society-in-advanced-economies-2022/
+
+Michich, 2023  https://pirg.org/edfund/articles/misinformation-on-social-media/
+
+Mackey, 2023  https://pmc.ncbi.nlm.nih.gov/articles/PMC10551800/
 
 
 
